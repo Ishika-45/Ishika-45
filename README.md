@@ -1,3 +1,7 @@
+<!-- 🌟 GitHub Banner -->
+<p align="center">
+  <img src="GithubBanner.png" alt="Ishika Bansal — Full Stack Developer 👩‍💻" width="100%" />
+</p>
 <!-- 🌸 Ishika Bansal | Modern, Creative GitHub Profile -->
 
 <h1 align="center">
