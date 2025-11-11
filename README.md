@@ -1,26 +1,37 @@
-<!-- Ishika Bansal | Modern GitHub Profile -->
+<!-- 🌸 Ishika Bansal | Modern, Creative GitHub Profile -->
 
-<!-- Animated Header -->
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35" /> 
-  Hey, I'm <span style="color:#38bdf8;">Ishika Bansal</span> ✨
+  Hey there, I'm <span style="color:#38bdf8;">Ishika Bansal</span> 🌻
 </h1>
 
-<h3 align="center">💻 Full-Stack Developer | ReactJS Enthusiast | UI/UX Innovator</h3>
+<h3 align="center">💻 Full-Stack Developer | Creative UI/UX Enthusiast | Tech Dreamer 🚀</h3>
 
+<!-- ✨ Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=700&center=true&vCenter=true&width=550&lines=🚀+Full-Stack+Developer+%7C+MERN+Stack;🎨+Designing+Visually+Appealing+UIs;💡+Creating+Impactful+Digital+Experiences;🧠+Problem+Solver+%7C+Tech+Explorer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=21&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=✨+Transforming+Ideas+into+Beautiful+Digital+Experiences;💡+MERN+Stack+Developer+with+a+Designer’s+Vision;🎨+Where+Creativity+Meets+Clean+Code;🚀+Passionate+about+Building+Impactful+Web+Solutions" alt="Typing SVG" />
+</p>
+
+<!-- 💻 Coding GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="380" alt="Girl coding" />
 </p>
 
 ---
 
 ### 👩‍💻 About Me  
 
-I’m **Ishika Bansal**, a passionate **Full-Stack Developer** and **UI/UX enthusiast**, currently in my final year of **Computer Science & Engineering** at [Maharishi Markandeshwar (Deemed to be University)](https://www.mmumullana.org/).  
+🌸 Hey! I’m **Ishika Bansal**, a passionate **Full-Stack Developer** and **UI/UX enthusiast** who loves building web applications that are not only functional but also visually delightful.  
 
-With a strong foundation in the **MERN stack**, I specialize in building **intuitive**, **responsive**, and **high-performance** web applications that blend design with functionality.  
+💫 I’m currently pursuing my **B.Tech in Computer Science and Engineering** from [Maharishi Markandeshwar (Deemed to be University)](https://www.mmumullana.org/), where I’ve grown into a developer who believes in the perfect blend of **logic, design, and user empathy.**  
 
-I believe every line of code contributes to shaping a smoother user journey — and that’s what keeps me inspired every day. 🌈  
+💻 My expertise lies in crafting **interactive, responsive, and user-first experiences** using the **MERN stack**, with a strong focus on modern aesthetics and seamless usability.  
+
+🎨 I adore **UI/UX**, love experimenting with new design systems, and enjoy transforming abstract ideas into engaging, real-world applications.  
+
+🌱 Currently exploring **React Animations, Framer Motion, and Next.js**, while continuously improving my design eye and backend efficiency.  
+
+💬 I believe — *great developers don’t just write code; they create experiences that feel alive.*  
 
 ---
 
@@ -36,7 +47,7 @@ I believe every line of code contributes to shaping a smoother user journey — 
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,firebase,supabase" />
 </p>
 
-#### 🧩 Additional Tools  
+#### 🧩 Tools I Love  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify,canva" />
 </p>
@@ -47,22 +58,22 @@ I believe every line of code contributes to shaping a smoother user journey — 
 
 | 🌟 Project | 🧠 Description | 🧰 Tech Stack |
 |-------------|----------------|---------------|
-| 🧭 **PlanPilot** | A task management web app with Razorpay integration and agile sprint tracking for smoother project workflows. | ReactJS, Firebase, Tailwind CSS, ShadCN UI |
+| 🧭 **PlanPilot** | Agile project management web app with payment integration and sprint tracking for smoother workflows. | ReactJS, Firebase, Tailwind CSS, ShadCN UI |
 | 💬 **CureCrafter** | AI-based health platform featuring a chatbot for home remedies and symptom analysis. | ReactJS, Tailwind CSS, AI/ML |
-| 💼 **JobGenie** | A modern job portal with secure authentication, role management, and advanced search features. | ReactJS, Node.js, Supabase, Clerk |
+| 💼 **JobGenie** | Job portal with secure authentication, role-based access, and a sleek UI. | ReactJS, Node.js, Supabase, Clerk |
 | 📊 **Interactive Dashboard** | Real-time analytics dashboard with drag-and-drop charts and Kanban view. | ReactJS, Tailwind CSS, Recharts |
-| 🛰️ **Terrain Generator** | AI model that transforms satellite images into maps for geospatial analysis. | TensorFlow, OpenCV |
+| 🛰️ **Terrain Generator** | AI model that transforms satellite images into geospatial maps for better visualization. | TensorFlow, OpenCV |
 
-> 🔗 Explore more in my [Repositories →](https://github.com/Ishika-45?tab=repositories)
+> 🌟 Explore all my creations in the [Repositories Section →](https://github.com/Ishika-45?tab=repositories)
 
 ---
 
 ### 🏆 Achievements  
 
-- 🥈 **1st Runner-Up** — Alpha Hack 2024  
-- 👩‍💻 Participated in **5+ National Hackathons**, contributing innovative, real-world tech solutions  
-- 🤖 **Core Member**, Robotronics Club — Led 4 major technical workshops  
-- 🎯 **Student Organizer**, UniversuMM23 — Managed Robosoccer & RoboBlitzz events  
+- 🥈 **1st Runner-Up** at **Alpha Hack 2024**  
+- 💡 Participated in **5+ National Hackathons** delivering innovative, real-world solutions  
+- 🤖 **Core Team Member**, *Robotronics Club* – Led 4 technical workshops  
+- 🎯 **Student Organizer**, *UniversuMM23* – Managed Robosoccer & RoboBlitzz events  
 
 ---
 
@@ -81,9 +92,9 @@ I believe every line of code contributes to shaping a smoother user journey — 
 
 ### ✨ Design & Development Philosophy  
 
-> “I don’t just code websites — I craft experiences.  
-> Every pixel, every interaction, and every transition tells a story.  
-> My goal is to make technology feel natural, elegant, and empowering.”  
+> “I don’t just build websites — I craft experiences.  
+> Every color, transition, and click should make the user *feel* something.  
+> My mission is to make technology elegant, meaningful, and human.”  
 
 ---
 
