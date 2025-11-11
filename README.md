@@ -1,28 +1,110 @@
-<h1 align="center">Hi 👋, I'm Ishika Bansal</h1>
-<h3 align="center">I am passionate about my career. I am a 4th year student of Computer Science and Engineering</h3>
+<!-- Ishika Bansal GitHub Profile -->
 
-<img align="right" alt="coding" width="150" src="https://camo.githubusercontent.com/4aa77ea32aa4d7be626e833b160f3d8923c133cd32c34fefbdc43c8abfcff710/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323730343431342f73637265656e73686f74732f373436363930332f6d656469612f62303861623537363331366264343538326665663138396634373163643965352e676966">
+<!-- Waving Hand Animation -->
+<h1 align="center">
+  Hey there, I'm <span style="color:#00b4d8;">Ishika Bansal</span> 👋  
+</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishika-45" alt="ishika-45" /></a> </p>
+<h3 align="center">💻 A Passionate Full-Stack & UI/UX-Focused Web Developer from India</h3>
 
-- 🔭 I’m currently studying in [Maharishi Markendeshwar (Deemed to be University)](https://www.mmumullana.org/)
-
-- 🌱 I’m currently learning **Java and Web development**
-
-- 📫 How to reach me **bansalishika58@gmail.com**
-
-- ⚡ Fun fact **I think I am childish**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ishika bansal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishika bansal" height="30" width="40" /></a>
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=700&color=00B4D8&center=true&vCenter=true&width=550&lines=🚀+Turning+Ideas+into+Interactive+Experiences;🎨+Crafting+Clean+and+Intuitive+UI%2FUX;⚙️+MERN+Stack+Developer;🌈+Lifelong+Learner+%26+Problem+Solver" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<!-- GIF or Illustration -->
+<p align="center">
+  <img src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" alt="coding" width="380"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishika-45&show_icons=true&locale=en&layout=compact" alt="ishika-45" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishika-45&show_icons=true&locale=en" alt="ishika-45" /></p>
+### 👩‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishika-45&" alt="ishika-45" /></p>
+- 🎓 4th Year **Computer Science & Engineering** student at [Maharishi Markendeshwar (Deemed to be University)](https://www.mmumullana.org/)  
+- 🌱 Currently exploring **MERN Stack, React Animations & Modern UI Frameworks (Tailwind, Framer Motion)**  
+- 💡 Interested in **Web Development**, **UI/UX Design**, and **Frontend Engineering**  
+- 🧩 I love building projects that are **creative**, **functional**, and **user-centric**  
+- 🎯 My goal: to **bridge design and technology** for seamless user experiences  
+- 📫 Reach me at: **bansalishika58@gmail.com**  
+- ⚡ Fun fact: I design better when I’m listening to lo-fi beats 🎧  
+
+---
+
+### 🧠 Tech Stack & Tools
+
+#### 🌐 Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,figma,threejs" />
+</p>
+
+#### ⚙️ Backend & Database
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres" />
+</p>
+
+#### 🧰 Other Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,netlify" />
+</p>
+
+---
+
+### 🎨 Featured Projects
+
+| Project | Description | Tech Stack |
+|----------|--------------|-------------|
+| 🧭 **PlanPilot** | A full-stack project management platform for teams & clients | MERN, Tailwind, JWT |
+| 🕹️ **AR Product Viewer** | Augmented reality web app for real-world product previews | JS, AR.js, WebXR |
+| 💬 **Reunite (SIH Project)** | Alumni-student community platform with a challenge section | MERN, Blockchain concept |
+| 🌦️ **WeatherSphere** | Real-time weather app with dynamic backgrounds | React, API, Tailwind |
+
+> 💡 *Explore all my projects in the [Repositories Section](https://github.com/ishika-45?tab=repositories)*
+
+---
+
+### 🌟 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ishika-45&show_icons=true&theme=tokyonight&hide_border=true" alt="ishika stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishika-45&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishika-45&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+---
+
+### 🪄 My Design & Development Philosophy
+> “Great design is born of simplicity, clarity, and intent — I blend creativity with logic to craft experiences that connect technology with emotion.”
+
+---
+
+### 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/ishika-bansal" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+  </a>
+  <a href="mailto:bansalishika58@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" />
+  </a>
+  <a href="https://github.com/ishika-45">
+    <img src="https://skillicons.dev/icons?i=github" width="40" />
+  </a>
+</p>
+
+---
+
+### ✨ Fun Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ishika-45&label=Profile%20views&color=00b4d8&style=flat" alt="profile views" />
+</p>
