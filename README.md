@@ -1,12 +1,15 @@
 <!-- 🌟 GitHub Banner -->
 <p align="center">
-  <img src="GithubBanner.png" alt="Ishika Bansal — Full Stack Developer 👩‍💻" width="100%" />
+  <img src="GithubBanner.png" alt="Ishika Bansal — Full Stack Developer 👩‍💻" 
+       width="75%" 
+       style="border-radius: 12px; box-shadow: 0px 0px 15px #00b4d8;">
 </p>
+
 <!-- 🌸 Ishika Bansal | Modern, Creative GitHub Profile -->
 
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35" /> 
-  Hey there, I'm <span style="color:#38bdf8;">Ishika Bansal</span> 🌻
+  Hey there, I'm <span style="color:#38bdf8;">Ishika Bansal</span> ✨
 </h1>
 
 <h3 align="center">💻 Full-Stack Developer | Creative UI/UX Enthusiast | Tech Dreamer 🚀</h3>
@@ -16,14 +19,32 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=21&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=✨+Transforming+Ideas+into+Beautiful+Digital+Experiences;💡+MERN+Stack+Developer+with+a+Designer’s+Vision;🎨+Where+Creativity+Meets+Clean+Code;🚀+Passionate+about+Building+Impactful+Web+Solutions" alt="Typing SVG" />
 </p>
 
-<!-- 💻 Coding GIF -->
+<!-- 💫 Glowing Divider -->
 <p align="center">
-  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="380" alt="Girl coding" />
+  <svg width="75%" height="5">
+    <defs>
+      <linearGradient id="glow-divider">
+        <stop offset="0%" stop-color="#00b4d8">
+          <animate attributeName="stop-color" values="#00b4d8;#38bdf8;#00b4d8" dur="4s" repeatCount="indefinite" />
+        </stop>
+        <stop offset="100%" stop-color="#38bdf8">
+          <animate attributeName="stop-color" values="#38bdf8;#00b4d8;#38bdf8" dur="4s" repeatCount="indefinite" />
+        </stop>
+      </linearGradient>
+    </defs>
+    <rect width="100%" height="5" fill="url(#glow-divider)" rx="5" ry="5">
+      <animate attributeName="opacity" values="0.6;1;0.6" dur="3s" repeatCount="indefinite" />
+    </rect>
+  </svg>
 </p>
 
 ---
 
 ### 👩‍💻 About Me  
+
+<table>
+  <tr>
+    <td width="60%" valign="top">
 
 🌸 Hey! I’m **Ishika Bansal**, a passionate **Full-Stack Developer** and **UI/UX enthusiast** who loves building web applications that are not only functional but also visually delightful.  
 
@@ -36,6 +57,18 @@
 🌱 Currently exploring **React Animations, Framer Motion, and Next.js**, while continuously improving my design eye and backend efficiency.  
 
 💬 I believe — *great developers don’t just write code; they create experiences that feel alive.*  
+
+  </td>
+  <td width="40%" align="center">
+
+<!-- 💻 Glowing Coding GIF -->
+  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="240" alt="Girl coding" 
+       style="border-radius: 12px; box-shadow: 0px 0px 18px #00b4d8; transition: all 0.4s ease-in-out;" 
+       onmouseover="this.style.boxShadow='0px 0px 35px #38bdf8';" 
+       onmouseout="this.style.boxShadow='0px 0px 18px #00b4d8';" />
+  </td>
+  </tr>
+</table>
 
 ---
 
@@ -132,3 +165,30 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ishika-45&label=Profile%20views&color=38bdf8&style=flat" alt="profile views" />
 </p>
+
+---
+
+<!-- ✨ Futuristic Footer with Pulse Glow -->
+<p align="center">
+  <svg width="100%" height="5">
+    <defs>
+      <linearGradient id="glow-footer">
+        <stop offset="0%" stop-color="#00b4d8">
+          <animate attributeName="stop-color" values="#00b4d8;#38bdf8;#00b4d8" dur="4s" repeatCount="indefinite" />
+        </stop>
+        <stop offset="100%" stop-color="#38bdf8">
+          <animate attributeName="stop-color" values="#38bdf8;#00b4d8;#38bdf8" dur="4s" repeatCount="indefinite" />
+        </stop>
+      </linearGradient>
+    </defs>
+    <rect width="100%" height="5" fill="url(#glow-footer)" rx="5" ry="5">
+      <animate attributeName="opacity" values="0.6;1;0.6" dur="3s" repeatCount="indefinite" />
+    </rect>
+  </svg>
+
+  <br>
+  <b style="color:#38bdf8;">✨ Crafted with Passion & Code by Ishika Bansal ✨</b><br>
+  <sub style="color:#6dd5fa;"><i>"Design. Develop. Deliver."</i></sub>
+</p>
+
+  
