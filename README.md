@@ -117,22 +117,26 @@
 ### 📊 GitHub Analytics  
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=ishika-45&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" 
-    height="165"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishika-45&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" 
-    height="165"
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ishika-45&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
+    alt="GitHub Stats"
+    loading="lazy"
   />
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-streak-stats.vercel.app?user=ishika-45&theme=tokyonight&hide_border=true" 
-    height="165"
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishika-45&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+    loading="lazy"
   />
 </p>
+### 🔥 Contribution Graph  
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishika-45&theme=tokyonight" />
+</p>
+
 
 ---
 
