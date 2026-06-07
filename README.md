@@ -1,7 +1,7 @@
 <!-- ===================== BANNER ===================== -->
 
 <p align="center">
-  <img src="GithubBanner.png" alt="Ishika Bansal Banner" width="100%" />
+  <img width="1983" height="793" alt="Github Banner" src="https://github.com/user-attachments/assets/bd2c3c88-86e0-453c-b15c-982b423bd500" />
 </p>
 
 <h1 align="center">
