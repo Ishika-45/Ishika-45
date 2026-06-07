@@ -13,7 +13,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=21&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=🚀+Full+Stack+Product+Engineer;🤖+Building+AI-Powered+SaaS+Applications;⚡+React+•+Node.js+•+PostgreSQL;💼+Selected+for+Software+Engineer+Roles+at+Infosys+%26+Capgemini;🌱+Learning+Next.js+•+TypeScript+•+Prisma" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=21&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=🚀+Full+Stack+Product+Engineer;🤖+Building+AI-Powered+SaaS+Applications;⚡+React+•+Node.js+•+PostgreSQL;🌱+Learning+Next.js+•+TypeScript+•+Prisma" alt="Typing SVG" />
 </p>
 
 ---
