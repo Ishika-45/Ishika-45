@@ -1,206 +1,233 @@
-<!-- 🌟 GitHub Banner -->
-<p align="center">
-  <img src="GithubBanner.png" alt="Ishika Bansal — Full Stack Developer 👩‍💻" 
-       width="75%" 
-       style="border-radius: 12px; box-shadow: 0px 0px 15px #00b4d8;">
-</p>
+<!-- ===================== BANNER ===================== -->
 
-<!-- 🌸 Ishika Bansal | Modern, Creative GitHub Profile -->
+<p align="center">
+  <img src="GithubBanner.png" alt="Ishika Bansal Banner" width="100%" />
+</p>
 
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35" /> 
-  Hey there, I'm <span style="color:#38bdf8;">Ishika Bansal</span> ✨
+  Hi 👋, I'm Ishika Bansal
 </h1>
 
-<h3 align="center">💻 Full-Stack Developer | Creative UI/UX Enthusiast | Tech Dreamer 🚀</h3>
-
-<!-- ✨ Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=21&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=✨+Transforming+Ideas+into+Beautiful+Digital+Experiences;💡+MERN+Stack+Developer+with+a+Designer’s+Vision;🎨+Where+Creativity+Meets+Clean+Code;🚀+Passionate+about+Building+Impactful+Web+Solutions" alt="Typing SVG" />
-</p>
-
-<!-- 💫 Glowing Divider -->
-<p align="center">
-  <svg width="75%" height="5">
-    <defs>
-      <linearGradient id="glow-divider">
-        <stop offset="0%" stop-color="#00b4d8">
-          <animate attributeName="stop-color" values="#00b4d8;#38bdf8;#00b4d8" dur="4s" repeatCount="indefinite" />
-        </stop>
-        <stop offset="100%" stop-color="#38bdf8">
-          <animate attributeName="stop-color" values="#38bdf8;#00b4d8;#38bdf8" dur="4s" repeatCount="indefinite" />
-        </stop>
-      </linearGradient>
-    </defs>
-    <rect width="100%" height="5" fill="url(#glow-divider)" rx="5" ry="5">
-      <animate attributeName="opacity" values="0.6;1;0.6" dur="3s" repeatCount="indefinite" />
-    </rect>
-  </svg>
-</p>
-
----
-
-### 👩‍💻 About Me  
-
-<table>
-  <tr>
-    <td width="60%" valign="top">
-
-🌸 Hey! I’m **Ishika Bansal**, a passionate **Full-Stack Developer** and **UI/UX enthusiast** who loves building web applications that are not only functional but also visually delightful.  
-
-💫 I’m currently pursuing my **B.Tech in Computer Science and Engineering** from [Maharishi Markandeshwar (Deemed to be University)](https://www.mmumullana.org/), where I’ve grown into a developer who believes in the perfect blend of **logic, design, and user empathy.**  
-
-💻 My expertise lies in crafting **interactive, responsive, and user-first experiences** using the **MERN stack**, with a strong focus on modern aesthetics and seamless usability.  
-
-🎨 I adore **UI/UX**, love experimenting with new design systems, and enjoy transforming abstract ideas into engaging, real-world applications.  
-
-🌱 Currently exploring **React Animations, Framer Motion, and Next.js**, while continuously improving my design eye and backend efficiency.  
-
-💬 I believe — *great developers don’t just write code; they create experiences that feel alive.*  
-
-  </td>
-  <td width="40%" align="center">
-
-<!-- 💻 Glowing Coding GIF -->
-  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="240" alt="Girl coding" 
-       style="border-radius: 12px; box-shadow: 0px 0px 18px #00b4d8; transition: all 0.4s ease-in-out;" 
-       onmouseover="this.style.boxShadow='0px 0px 35px #38bdf8';" 
-       onmouseout="this.style.boxShadow='0px 0px 18px #00b4d8';" />
-  </td>
-  </tr>
-</table>
-
----
-
-### 🛠️ Tech Arsenal  
-
-#### 💻 Frontend Magic  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,figma,threejs" />
-</p>
-
-#### ⚙️ Backend & Databases  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,firebase,supabase" />
-</p>
-
-#### 🧩 Tools I Love  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify,canva" />
-</p>
-
----
-
-### 🚀 Featured Projects  
-
-| 🌟 Project | 🧠 Description | 🧰 Tech Stack |
-|-------------|----------------|---------------|
-| 🧭 **PlanPilot** | Agile project management web app with payment integration and sprint tracking for smoother workflows. | ReactJS, Firebase, Tailwind CSS, ShadCN UI |
-| 💬 **CureCrafter** | AI-based health platform featuring a chatbot for home remedies and symptom analysis. | ReactJS, Tailwind CSS, AI/ML |
-| 💼 **JobGenie** | Job portal with secure authentication, role-based access, and a sleek UI. | ReactJS, Node.js, Supabase, Clerk |
-| 📊 **Interactive Dashboard** | Real-time analytics dashboard with drag-and-drop charts and Kanban view. | ReactJS, Tailwind CSS, Recharts |
-| 🛰️ **Terrain Generator** | AI model that transforms satellite images into geospatial maps for better visualization. | TensorFlow, OpenCV |
-
-> 🌟 Explore all my creations in the [Repositories Section →](https://github.com/Ishika-45?tab=repositories)
-
----
-
-### 🏆 Achievements  
-
-- 🥈 **1st Runner-Up** at **Alpha Hack 2024**  
-- 💡 Participated in **5+ National Hackathons** delivering innovative, real-world solutions  
-- 🤖 **Core Team Member**, *Robotronics Club* – Led 4 technical workshops  
-- 🎯 **Student Organizer**, *UniversuMM23* – Managed Robosoccer & RoboBlitzz events  
-
----
-
-### 📊 GitHub Analytics  
+<h3 align="center">
+🚀 Full Stack Product Engineer | AI-Powered SaaS Builder | React • Node.js • PostgreSQL
+</h3>
 
 <p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishika-45&theme=tokyonight" 
-    alt="GitHub Profile Summary"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ishika-45&theme=tokyonight" 
-    height="165"
-  />
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ishika-45&theme=tokyonight" 
-    height="165"
-  />
-</p>
-
-> 📌 *Live GitHub stats may vary due to API limits.*
-
-
----
-
-### ✨ Design & Development Philosophy  
-
-> “I don’t just build websites — I craft experiences.  
-> Every color, transition, and click should make the user *feel* something.  
-> My mission is to make technology elegant, meaningful, and human.”  
-
----
-
-### 🌐 Connect With Me  
-
-<p align="center">
-  <a href="https://linkedin.com/in/ishika-bansal-3443a4250" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
-  </a>
-  <a href="mailto:bansalishika58@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" width="45" />
-  </a>
-  <a href="https://github.com/Ishika-45" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="45" />
-  </a>
-  <a href="https://talentcanvas.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%2300B4D8?style=for-the-badge&logo=webflow&logoColor=white" height="30"/>
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=21&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=🚀+Full+Stack+Product+Engineer;🤖+Building+AI-Powered+SaaS+Applications;⚡+React+•+Node.js+•+PostgreSQL;💼+Selected+for+Software+Engineer+Roles+at+Infosys+%26+Capgemini;🌱+Learning+Next.js+•+TypeScript+•+Prisma" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🪄 Fun Animation  
+# 👩‍💻 About Me
+
+I'm a Computer Science Engineering student passionate about building scalable software products and modern web applications.
+
+My focus lies in combining:
+
+* ⚡ Product Engineering
+* 🤖 AI-Powered Applications
+* 🌐 Full Stack Development
+* 🚀 SaaS Platforms
+* 🎨 Modern User Experiences
+
+Currently building production-grade applications using React, Node.js, PostgreSQL, and modern cloud technologies.
+
+---
+
+# 🛠 Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,supabase,mysql" />
+</p>
+
+### Tools & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel,netlify,vscode" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🌟 EvolveWeb AI
+
+### AI-Powered SaaS Website Builder
+
+* Generate startup website structures using AI
+* OpenAI-powered content generation workflows
+* Secure JWT Authentication & OAuth
+* Project dashboards and workspace management
+* Modern SaaS architecture
+
+**Tech Stack**
+
+React.js • Node.js • Express.js • MongoDB • OpenAI API
+
+🔗 Repository:
+https://github.com/Ishika-45/EvolveWebAI
+
+---
+
+## 💼 JobGenie
+
+### AI-Assisted Recruitment Platform
+
+* Job posting and application workflows
+* Secure authentication with Clerk
+* Database management using Supabase
+* Responsive modern UI
+* Scalable recruitment system
+
+**Tech Stack**
+
+React.js • Node.js • Supabase • Clerk
+
+🔗 Repository:
+https://github.com/Ishika-45/JobGenie
+
+---
+
+## 📋 PlanPilot
+
+### Agile Project Management Platform
+
+* Kanban boards
+* Sprint management
+* Task tracking workflows
+* Real-time updates
+* Productivity dashboard
+
+**Tech Stack**
+
+React.js • Firebase • Tailwind CSS • ShadCN UI
+
+🔗 Repository:
+https://github.com/Ishika-45/PlanPilot
+
+---
+
+# 🏆 Highlights
+
+🥈 1st Runner-Up — Alpha Hack 2024
+
+💼 Selected for Software Engineer Roles at:
+
+* Infosys
+* Capgemini
+
+🎓 B.Tech Computer Science Engineering
+
+* CGPA: 8.72
+
+🏅 ServiceNow Certified System Administrator
+
+💻 Solved 250+ DSA Problems
+
+🤖 Participated in Multiple National-Level Hackathons
+
+---
+
+# 🌱 Current Focus
+
+* Building AI-Powered SaaS Applications
+* Learning Next.js
+* Learning TypeScript
+* Exploring Prisma ORM
+* Improving System Design Fundamentals
+* Open to Software Engineering Opportunities
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ishika-45&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ishika-45&theme=tokyonight" height="170" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ishika-45&theme=tokyonight" height="170" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Ishika-45&show_icons=true&theme=tokyonight" height="170" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ishika-45&theme=tokyonight" height="170" />
+</p>
+
+---
+
+# 🤝 Let's Build Something Amazing
+
+I'm passionate about building:
+
+✔ AI-Powered Products
+
+✔ SaaS Platforms
+
+✔ Full Stack Applications
+
+✔ Startup Solutions
+
+✔ Modern User Experiences
+
+I'm currently open to:
+
+* Software Engineering Roles
+* Internships
+* Freelance Projects
+* Startup Collaborations
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:bansalishika58@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="50" />
+</a>
+
+<a href="https://linkedin.com/in/ishika-bansal-3443a4250">
+<img src="https://skillicons.dev/icons?i=linkedin" width="50" />
+</a>
+
+<a href="https://github.com/Ishika-45">
+<img src="https://skillicons.dev/icons?i=github" width="50" />
+</a>
+
+<a href="https://talentcanvas.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge" />
+</a>
+
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ishika-45&label=Profile%20views&color=38bdf8&style=flat" alt="profile views" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
-<!-- ✨ Futuristic Footer with Pulse Glow -->
 <p align="center">
-  <svg width="100%" height="5">
-    <defs>
-      <linearGradient id="glow-footer">
-        <stop offset="0%" stop-color="#00b4d8">
-          <animate attributeName="stop-color" values="#00b4d8;#38bdf8;#00b4d8" dur="4s" repeatCount="indefinite" />
-        </stop>
-        <stop offset="100%" stop-color="#38bdf8">
-          <animate attributeName="stop-color" values="#38bdf8;#00b4d8;#38bdf8" dur="4s" repeatCount="indefinite" />
-        </stop>
-      </linearGradient>
-    </defs>
-    <rect width="100%" height="5" fill="url(#glow-footer)" rx="5" ry="5">
-      <animate attributeName="opacity" values="0.6;1;0.6" dur="3s" repeatCount="indefinite" />
-    </rect>
-  </svg>
-
-  <br>
-  <b style="color:#38bdf8;">✨ Crafted with Passion & Code by Ishika Bansal ✨</b><br>
-  <sub style="color:#6dd5fa;"><i>"Design. Develop. Deliver."</i></sub>
+<img src="https://komarev.com/ghpvc/?username=Ishika-45&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
-  
+<p align="center">
+<b>🚀 Building Products. Solving Problems. Creating Impact.</b>
+</p>
